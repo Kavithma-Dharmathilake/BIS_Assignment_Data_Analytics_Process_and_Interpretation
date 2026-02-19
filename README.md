@@ -80,4 +80,4 @@ Based on the analysis, the hospital should:
 **Conclusion**: This study demonstrates that reducing readmissions requires moving beyond "standard care" for the 60–80 age bracket and focusing on targeted monitoring for patients with clinical instability and complex medical histories.
 
 ## 👤 Author
-K.A.D.K.D. Dharmathilake Student ID: 21020191 | 2021/IS/019 GitHub Profile
+K.A.D.K.D. Dharmathilake Student ID: 21020191 | 2021/IS/019 
