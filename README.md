@@ -1,10 +1,8 @@
-# BIS_Assignment_Data_Analytics_Process_and_Interpretation
+# BIS_Assignment - Diabetes Readmission Analysis: Predicting 30-Day Hospital Returns
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kavithma-Dharmathilake/BIS_Assignment_Data_Analytics_Process_and_Interpretation/blob/main/Notebook_file.ipynb)
 
 ---
-
-# Diabetes Readmission Analysis: Predicting 30-Day Hospital Returns
 
 ## 📌 Project Overview
 
